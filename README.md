@@ -6,7 +6,7 @@ Crowdfunding Success Conditions Analysis at WADIZ
 스케일업 해서 업데이트 중입니다.
 
 1. 크롤링
-  1) 카테고리 상품번호 [완료]
+a. 카테고리 상품번호 [완료]
   2) 카테고리 페이지 [완료]
   3) 상품 페이지
   4) 상품별 이미지 [완료]
